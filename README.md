@@ -34,3 +34,9 @@ O protótipo demonstrou boa eficiência na extração de dados da CNH, com taxa 
 ## Observações
 
 Este projeto tem fins educativos e demonstração de OCR em documentos. Nenhuma informação é armazenada ou compartilhada.
+
+ ![Captura de tela 2025-04-22 180131](https://github.com/user-attachments/assets/c6f12683-2627-441e-a29f-a0c7a5c51451)
+
+
+
+
